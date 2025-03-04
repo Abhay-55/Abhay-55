@@ -11,9 +11,11 @@
 <!-- Languages and Tools Section -->
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
+
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
-
+- Enthusiastic about learning new technologies with a goal to become a Software Developer and solve real-world challenges.
+- Passionate about building a career in the tech industry, driving innovation and societal impact.
 
 
 
@@ -58,7 +60,7 @@
 <p align="left">
 </p>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">:heart: Connect with me:</h2>
 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/abhaymaity/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
