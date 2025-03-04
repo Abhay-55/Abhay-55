@@ -9,7 +9,7 @@
 
 
 <!-- Languages and Tools Section -->
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h1 align="left">:hammer_and_wrench: Technologies and Tools I use:</h1>
 
 
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
