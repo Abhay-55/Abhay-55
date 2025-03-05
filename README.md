@@ -83,10 +83,13 @@
 <!-- Stats Section -->
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
 
-<div style="display: flex; align-items: center; justify-content: center;">
+
+
+
+<p align="center"><a<div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhay-55&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-55&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="180px">
-</div>
+</div></a></p>
 
 
 
